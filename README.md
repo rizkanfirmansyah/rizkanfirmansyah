@@ -14,7 +14,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark"  />
 </p>
 
-<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=UCXGP1G7CCkFt35lri-GILfw" width="480" height="400"></iframe>
 
 
 ### Let's connect!
