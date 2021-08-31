@@ -1,5 +1,7 @@
+<h1>Hello There, I am Rizkan Firmansyah</h1>
+<hr>
 
-### Stats:
+###Stats : 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
@@ -11,8 +13,6 @@
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
-
-<h1>Hello There, I am Rizkan Firmansyah</h1>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true"/>
