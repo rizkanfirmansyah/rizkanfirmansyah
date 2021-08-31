@@ -12,7 +12,7 @@
     - ⚡ Fun fact: ... </br>
 </details>
 
-<h1>Hello Ther, I am Rizkan Firmansyah</h1>
+<h1>Hello There, I am Rizkan Firmansyah</h1>
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true"/>
