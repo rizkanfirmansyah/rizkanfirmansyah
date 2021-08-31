@@ -24,7 +24,7 @@
 
 ### Languages and Tools 🛠 
 
-![PHP](https://img.shields.io/badge/-PHP-%blue?style=flat-square&logo=php&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=flat-square&logo=php&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
