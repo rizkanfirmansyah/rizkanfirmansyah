@@ -12,7 +12,7 @@
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&theme=dark" height=180 width="400"/>
 </p>
 
