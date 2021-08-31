@@ -1,7 +1,5 @@
 <h1>Hello There, I am Rizkan Firmansyah</h1>
-<hr>
 
-###Stats : 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
