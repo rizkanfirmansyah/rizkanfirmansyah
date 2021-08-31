@@ -1,15 +1,12 @@
 <h1>Hello There, I am Rizkan Firmansyah</h1>
 
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+ <summary><strong>Apa yang saya lakukan Sekarang?</strong></summary>
+    - Bekerja sebagai Web Developer & IT Support</br>
+    - Belajar Mobile Apps & Design UI dengan Figma </br>
+    - Mentoring Eskul SMK </br>
+    - Sharing Tutorial Network on Youtube </br>
+    - 📫 Email Saya  <a href="mailto:griezkanaprianda@gmail.com">Click to Email!</a>  </br>
 </details>
 
 <p>
@@ -17,6 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark"  />
 </p>
 
+<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=UCXGP1G7CCkFt35lri-GILfw" width="480" height="400"></iframe>
 
 
 ### Let's connect!
