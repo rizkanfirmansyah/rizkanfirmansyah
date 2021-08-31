@@ -11,12 +11,14 @@
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
+
+<h1>Hello Ther, I am Rizkan Firmansyah</h1>
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark"  />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&theme=dark" />
 
 
 ### Let's connect!
