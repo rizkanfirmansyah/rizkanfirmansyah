@@ -13,8 +13,10 @@
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&theme=dark" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark"  />
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&theme=dark" />
 
 
 ### Let's connect!
