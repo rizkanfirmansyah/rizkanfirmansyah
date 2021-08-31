@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/riezkan-aprianda-firmansyah-a080291b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/_rizkanfirmansyah" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/riezkanfirmansyah" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.youtube.com/channel/UCXGP1G7CCkFt35lri-GILfw" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
+<a href="https://www.youtube.com/channel/UCXGP1G7CCkFt35lri-GILfw" target="_blank"><img src="https://img.shields.io/badge/Youtube-%230A0A0A.svg?&style=flat-square&logo=youtube&logoColor=white" alt="Youtube"></a>
 
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
