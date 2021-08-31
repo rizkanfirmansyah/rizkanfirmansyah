@@ -12,8 +12,8 @@
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true" width="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark" height=180 />
 </p>
 
 ### Let's connect!
