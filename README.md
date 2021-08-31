@@ -13,15 +13,9 @@
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark" height=180 width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&theme=dark" height=180 width="400"/>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 ### Let's connect!
 <!-- <p>
