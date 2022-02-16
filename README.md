@@ -15,6 +15,8 @@
 </p>
  -->
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rizkanfirmansyah?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
+ **[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah)]
+**
 
 
 ### Let's connect!
