@@ -6,14 +6,14 @@
     - Belajar Mobile Apps & Design UI dengan Figma </br>
     - Mentoring Eskul SMK </br>
     - Sharing Tutorial Network on Youtube </br>
-    - 📫 Email Saya  <a href="mailto:griezkanaprianda@gmail.com">Click to Email!</a>  </br>
+    - 📫 Email Saya  <a href="mailto:riezkanaprianda@gmail.com">Click to Email!</a>  </br>
 </details>
 
-<p>
+<!-- <p>
     <img src="https://github-readme-stats.vercel.app/api?username=rizkanfirmansyah&theme=dark&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark"  />
 </p>
-
+ -->
 
 
 ### Let's connect!
