@@ -32,6 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-CC2927?style=flat-square&logo=Laravel&logoColor=ffffff)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-EE4323?style=flat-square&logo=Codeigniter&logoColor=ffffff)
+![Vue](https://img.shields.io/badge/-Vue-EE4323?style=flat-square&logo=Codeigniter&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 <!-- ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown) -->
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
