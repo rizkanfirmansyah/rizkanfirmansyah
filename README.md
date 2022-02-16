@@ -14,6 +14,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark"  />
 </p>
  -->
+ 
+ <a href="https://github.com/rizkanfirmansyah/github-stats">
+
+![](https://github.com/rizkanfirmansyah/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/rizkanfirmansyah/github-stats/blob/master/generated/languages.svg)
+
+</a>
 
 
 ### Let's connect!
