@@ -14,13 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark"  />
 </p>
  -->
- 
- <a href="https://github.com/rizkanfirmansyah/github-stats">
-
-![](https://github.com/rizkanfirmansyah/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/rizkanfirmansyah/github-stats/blob/master/generated/languages.svg)
-
-</a>
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rizkanfirmansyah?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
 
 
 ### Let's connect!
