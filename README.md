@@ -14,6 +14,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark"  />
 </p>
  -->
+
+
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rizkanfirmansyah?cardType=level&theme=github-dark)](https://git.io/awesome-stats-card)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkanfirmansyah&layout=compact&theme=dark"  />
 
