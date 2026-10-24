@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Laravel, NextJS, Fastify, Codeigniter, PostgreSQL, ReactJS, SocketIO, Flutter**
 
-- 👨‍💻 All of my projects are available at [rizkandev.super.site](rizkandev.super.site)
+- 👨‍💻 All of my projects are available at [rizkan.rannranu.id](rizkan.rannranu.id)
 
 - 📫 How to reach me **riezkanaprianda@gmail.com**
 
-- 📄 Know about my experiences [rizkandev.super.site](rizkandev.super.site)
+- 📄 Know about my experiences [rizkan.rannranu.id](rizkan.rannranu.id)
 
 - ⚡ Fun fact **My hobby is cooking hehe :v**
 
